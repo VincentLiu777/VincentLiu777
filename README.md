@@ -7,9 +7,9 @@
 ## Talks
 <table>
     <tr>
-        <td><a href="https://www.youtube.com/watch?v=tIWap2KLK8M"><img src="./media/mfs.png" style="width:200px" /></a></td>
+        <td><a href="https://www.youtube.com/watch?v=9hnyIN0NnI4&t=1s"><img src="./media/mfs.png" style="width:200px" /></a></td>
         <td>
-            <h3><a href="https://www.youtube.com/watch?v=tIWap2KLK8M">Simplifying Azure Files: Provisioned v2 and Microsoft.FileShares</a></h3>
+            <h3><a href="https://www.youtube.com/watch?v=9hnyIN0NnI4&t=1s">Simplifying Azure Files: Provisioned v2 and Microsoft.FileShares</a></h3>
             <h4>
                 Will Gries, Vincent Liu<br />
                 2025-11-18
