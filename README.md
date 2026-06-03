@@ -46,6 +46,6 @@
 ## Blog posts
 | Title | Author | Date |
 |-|-|-|
-| [Simpler, scalable file share management in Azure - now generally available]([https://techcommunity.microsoft.com/blog/azurestorageblog/simplifying-file-share-management-and-control-for-azure-files/4452634](https://techcommunity.microsoft.com/blog/azurestorageblog/simpler-scalable-file-share-management-in-azure---now-generally-available/4523035) | Vincent Liu | 2026-06-02 |
+| [Simpler, scalable file share management in Azure - now generally available](https://techcommunity.microsoft.com/blog/azurestorageblog/simplifying-file-share-management-and-control-for-azure-files/4452634](https://techcommunity.microsoft.com/blog/azurestorageblog/simpler-scalable-file-share-management-in-azure---now-generally-available/4523035) | Vincent Liu | 2026-06-02 |
 | [Simplifying file share management and control for Azure Files](https://techcommunity.microsoft.com/blog/azurestorageblog/simplifying-file-share-management-and-control-for-azure-files/4452634) | Will Gries (Coauthor: Vincent Liu) | 2025-09-09 |
 | [Lower costs and boost flexibility with Azure Files provisioned v2](https://techcommunity.microsoft.com/blog/azurestorageblog/lower-costs-and-boost-flexibility-with-azure-files-provisioned-v2/4443621) | Will Gries (Coauthor: Vincent Liu) | 2025-08-14 |
