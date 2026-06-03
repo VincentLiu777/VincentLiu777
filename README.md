@@ -7,7 +7,7 @@
 ## Talks
 <table>
      <tr>
-        <td><a href="[https://www.youtube.com/watch?v=fnxEFw4mMyQ](https://www.youtube.com/live/IWktcxpru7c?si=1nJPZpWanJuDsV2P)"><img src="./media/pv2video.png" style="width:200px;" /></a>
+        <td><a href="[https://www.youtube.com/watch?v=fnxEFw4mMyQ](https://www.youtube.com/live/IWktcxpru7c?si=1nJPZpWanJuDsV2P)"><img src="./media/mfs ga.png" style="width:200px;" /></a>
         </td>
         <td>
             <h3><a href="https://www.youtube.com/live/IWktcxpru7c?si=3sRgdmvqNElXXFJO">Simplifying file share management and control for Azure Files</a></h3>
