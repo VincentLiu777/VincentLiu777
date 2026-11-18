@@ -46,6 +46,7 @@
 ## Blog posts
 | Title | Author | Date |
 |-|-|-|
+| [Petabyte scale and cost flexibility for Linux workloads with Azure Files NFS](https://techcommunity.microsoft.com/blog/azurestorageblog/petabyte-scale-and-cost-flexibility-for-linux-workloads-with-azure-files-nfs/4573843) | Vincent Liu (Coauthor: Adam Groves) | 2026-11-17 |
 | [Simpler, scalable file share management in Azure - now generally available](https://techcommunity.microsoft.com/blog/azurestorageblog/simpler-scalable-file-share-management-in-azure---now-generally-available/4523035) | Vincent Liu | 2026-06-02 |
 | [Simplifying file share management and control for Azure Files](https://techcommunity.microsoft.com/blog/azurestorageblog/simplifying-file-share-management-and-control-for-azure-files/4452634) | Will Gries (Coauthor: Vincent Liu) | 2025-09-09 |
 | [Lower costs and boost flexibility with Azure Files provisioned v2](https://techcommunity.microsoft.com/blog/azurestorageblog/lower-costs-and-boost-flexibility-with-azure-files-provisioned-v2/4443621) | Will Gries (Coauthor: Vincent Liu) | 2025-08-14 |
